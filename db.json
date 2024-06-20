@@ -1,13 +1,22 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "Huynh Van Quy", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+<current>
+<city id="1587923" name="Bien Hoa">
+<coord lon="106.8167" lat="10.95"/>
+<country>VN</country>
+<timezone>25200</timezone>
+<sun rise="2024-06-19T22:31:21" set="2024-06-20T11:17:14"/>
+</city>
+<temperature value="32.24" min="31.99" max="32.24" unit="celsius"/>
+<feels_like value="35.06" unit="celsius"/>
+<humidity value="51" unit="%"/>
+<pressure value="1005" unit="hPa"/>
+<wind>
+<speed value="4.14" unit="m/s" name="Gentle Breeze"/>
+<gusts value="5.77"/>
+<direction value="279" code="W" name="West"/>
+</wind>
+<clouds value="99" name="overcast clouds"/>
+<visibility value="10000"/>
+<precipitation mode="no"/>
+<weather number="804" value="overcast clouds" icon="04d"/>
+<lastupdate value="2024-06-20T04:42:58"/>
+</current>
